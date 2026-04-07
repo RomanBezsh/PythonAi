@@ -1,1 +1,1 @@
-## [Task1](/blob/main/works/hm1.ipynb)
+## [Task 1](./works/hm1.ipynb)
