@@ -34,6 +34,7 @@ https://jupyter.org/
 (!! в активованому віртуальному оточенні)
 > pip install jupyter
 > pip install numpy
+> pip install -r requirements.txt
 запуск сервера та блокноту
 > jupyter notebook
 
