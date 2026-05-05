@@ -38,8 +38,8 @@ https://jupyter.org/
   > pip install pandas
    > pip install matplotlib
 
-> pip freeze > libs.txt 
-> pip install -r libs.txt
+> pip freeze > requirements.txt 
+> pip install -r requirements.txt
 
 запуск сервера та блокноту
 > jupyter notebook
