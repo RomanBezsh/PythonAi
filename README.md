@@ -11,3 +11,5 @@
 ## [Task 6](./works/task6.ipynb)
 
 ## [Task 7](./works/task7.ipynb)
+
+## [Task 8](./works/task8.ipynb)
