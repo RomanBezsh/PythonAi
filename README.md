@@ -9,3 +9,5 @@
 ## [Task 5](./works/task5.ipynb)
 
 ## [Task 6](./works/task6.ipynb)
+
+## [Task 7](./works/task7.ipynb)
