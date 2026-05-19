@@ -1,7 +1,15 @@
+# Виртуальное окружение на Linux (конкретно ваши папки в корне)
+bin/
+etc/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# На случай, если проект будет открываться на Windows
 Include/
 Lib/
 Scripts/
-share/
-pyvenv.cfg
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+.venv/
+venv/
