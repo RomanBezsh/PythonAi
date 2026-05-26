@@ -13,3 +13,12 @@ Lib/
 Scripts/
 .venv/
 venv/
+
+# Датасеты и изображения
+works/chest_xray/
+works/data/
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.tar.gz
