@@ -19,3 +19,7 @@
 ## [Task 10](./works/task10.ipynb)
 
 ## [Task 11](./works/task11.ipynb)
+
+## [Task 12](./works/task12.ipynb)
+
+## [Task 13](./works/task13.ipynb)
